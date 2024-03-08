@@ -6,7 +6,7 @@ def print_nama_kel_Jatim(mantee):
 daftar_nama = ["Pangestu Sandya Etniko Siagian",
                "Azis Ilham Kurniawan",
                "Abiyasa Putra Prasetya",
-               "Galih Aulia Murdyaha Njani",
+               "Galih Aulia Murdyahanjani",
                "Eko Satria Rahmat Dani",
                "Andreas Timotius Parhorasan Sihombing",
                "Heldha Ayu Setia",
