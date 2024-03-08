@@ -4,22 +4,26 @@ def print_nama_kel_Jatim(mantee):
 
 # Contoh list nama orang
 daftar_nama = ["Pangestu Sandya Etniko Siagian",
-               "Taj Hakam Ikhsan",
+               "Azis Ilham Kurniawan",
                "Abiyasa Putra Prasetya",
-               "Name",
-               "Auditi Kurnia Wijayanti",
-               "Name",
-               "Taj Hakam Ikhsan",
-               "Muhammad Salwa Fairus Santoso",
+               "Galih Aulia Murdyaha Njani",
                "Eko Satria Rahmat Dani",
-               "Pramudhi Maulana",
+               "Andreas Timotius Parhorasan Sihombing",
+               "Heldha Ayu Setia",
+               "Taj Hakam Ikhsan",
+               "Pramudi Maulana",
+               "Muhammad Abiyyu Arldana Sugianto",
+               "Putri Dwi Agnesya",
+               "Agfanadita Rezkia Chaurina",
+               "Moh Bintang Al Akbar",
+               "Nadiya Zahrotur Rohmah",
                "Ferdinand Pratama Putra",
                "Rizki Ilham Ramadhan Anwar",
                "Muhammad Salwa Fairus Santoso",
                "Auditi Kurnia Wijayanti",
                "Muhammad Al Kindy",
-               "Muhammad Rizqi Maulana",
-               "Name"]
+               "Muhammad Rizqi Maulana"]
+
 
 # Memanggil fungsi untuk memprint nama orang
 print_nama_kel_Jatim(daftar_nama)
