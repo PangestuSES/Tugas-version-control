@@ -13,6 +13,12 @@ daftar_nama = ["Pangestu Sandya Etniko Siagian",
                "Muhammad Salwa Fairus Santoso",
                "Eko Satria Rahmat Dani",
                "Pramudhi Maulana",
+               "Ferdinand Pratama Putra",
+               "Rizki Ilham Ramadhan Anwar",
+               "Muhammad Salwa Fairus Santoso",
+               "Auditi Kurnia Wijayanti",
+               "Muhammad Al Kindy",
+               "Muhammad Rizqi Maulana",
                "Name"]
 
 # Memanggil fungsi untuk memprint nama orang
